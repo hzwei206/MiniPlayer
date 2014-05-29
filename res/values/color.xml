@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="translucent_background">#a8000000</color>
+    <color name="video_progress_normal">#afcfff66</color>
+    <color name="video_progress_press">#ffcfff66</color>
+</resources>

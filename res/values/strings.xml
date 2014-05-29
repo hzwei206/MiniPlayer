@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HzweiPlayer</string> 
+    <string name="app_title">MiniPlayer|大青山</string> 
+    <string name="movieThumbnail">视频缩略图</string>
+    
+    <string name="btn_paler">播放</string>
+    <string name="btn_forward">快进</string>
+    <string name="btn_backward">快退</string>
+    <string name="btn_prev">上一个</string>
+    <string name="btn_next">下一个</string>
+    <string name="btn_pause">暂停</string>
+    <string name="btn_quit">停止并退出</string>
+    <string name="btn_lock">锁定</string>
+</resources>

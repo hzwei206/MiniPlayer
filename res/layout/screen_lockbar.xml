@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton android:id="@+id/controller_lockPlus" 
+                 android:contentDescription="@string/btn_lock"
+                 android:background="@drawable/playback_item_back_translucent" 
+                 android:longClickable="true" 
+                 android:layout_width="20dip" 
+                 android:layout_height="20dip"
+                 android:src="@drawable/lock_plus" 
+                 xmlns:android="http://schemas.android.com/apk/res/android"/>
+ 
